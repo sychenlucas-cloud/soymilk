@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './components/Navbar';
-import Hero from './components/Hero';
+import Hero from "./components/Hero.tsx"; 
 import AboutSection from './components/AboutSection';
 import MenuSection from './components/MenuSection';
 import ReviewsSection from './components/ReviewsSection';
