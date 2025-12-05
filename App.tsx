@@ -1,12 +1,12 @@
 import React from 'react';
-import Navbar from './components/Navbar.tsx'; 
-import Hero from './components/Hero.tsx'; 
-import AboutSection from './components/AboutSection.tsx';
-import MenuSection from './components/MenuSection.tsx';
-import ReviewsSection from './components/ReviewsSection.tsx';
-import Locations from './components/Locations.tsx';
-import Footer from './components/Footer.tsx';
-import ChatWidget from './components/ChatWidget.tsx';
+import Navbar from './components/navbar.tsx'; 
+import Hero from './components/hero.tsx'; 
+import AboutSection from './components/aboutSection.tsx';
+import MenuSection from './components/menuSection.tsx';
+import ReviewsSection from './components/reviewsSection.tsx';
+import Locations from './components/locations.tsx';
+import Footer from './components/footer.tsx';
+import ChatWidget from './components/chatWidget.tsx';
 
 const App: React.FC = () => {
   return (
